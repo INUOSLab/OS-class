@@ -1,7 +1,8 @@
 /*
  *	Fork example 1 for INU OS class
  * 
- *  Written by ypkim@inu.ac.kr
+ *  Orignial code: p1.c in the book OS Three Easy Pieces (Section Process API )
+ *  Modified by ypkim@inu.ac.kr
  *  Created: 2024. 4
  *  Updated: 
  */
