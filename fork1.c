@@ -1,3 +1,11 @@
+/*
+ *	Fork example 1 for INU OS class
+ * 
+ *  Written by ypkim@inu.ac.kr
+ *  Created: 2024. 4
+ *  Updated: 
+ */
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<unistd.h>
