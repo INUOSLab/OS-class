@@ -1,3 +1,12 @@
+/*
+ *	Fork example 2 for INU OS class
+ * 
+ *  Orignial code: p2.c in the book OS Three Easy Pieces (Section Process API )
+ *  Modified by ypkim@inu.ac.kr
+ *  Created: 2024. 4
+ *  Updated: 
+ */
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<unistd.h>
